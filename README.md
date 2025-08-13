@@ -1,7 +1,7 @@
 
 
 - 🇧🇷 Software Engineer
-- Currently studying ai and ml engineering
+- Currently studying AI and ML engineering
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-medrado-02b014273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victormeol99@gmail.com) 
