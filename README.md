@@ -75,12 +75,6 @@
 -----------------------
 
 
-📊 GitHub Stats
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO_AQUI%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Estatísticas do GitHub" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO_AQUI%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Linguagens mais usadas" height="150" />
-</p>
 
 <p align="center">
 <i>"Simplicity is the ultimate sophistication."</i>
