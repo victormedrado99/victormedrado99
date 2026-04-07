@@ -1,5 +1,3 @@
-💻 Terminal Portfolio
-
 <table border="0">
 <tr>
 <td valign="top">
